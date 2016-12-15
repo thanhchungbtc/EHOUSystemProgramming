@@ -1,19 +1,6 @@
-BÀI TẬP NHÓM 
+BÀI TẬP
 MÔN LẬP TRÌNH HỆ THỐNG
 
-Danh sách thành viên:
-1.	Bùi Thành Chung
-2.	Nguyễn Hoàng Linh
-3.	Bùi Thị yến
-4.	Nguyễn Chiến Thắng
-5.	Tống Đức Anh
-6.	Giáp Hồng Sơn
-7.	Đinh Hoài Nam
-8.	Bùi Biên Cương
-9.	Hoàng Thị Lan Anh
-10.	Nguyễn Hữu Thọ
-11.	Nguyễn Văn Hạnh
-12.	Trương Hà Thanh
  
 Đề bài
 Viết chương trình liên kết giữa ngôn ngữ C/C++ và Assembly với sự phân công công việc như sau:
